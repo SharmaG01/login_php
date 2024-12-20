@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root"; // Default username for local server
 $password = ""; // Default password for local server
-$dbname = "login_system";
+$dbname = "if0_37911031_loginpage";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
